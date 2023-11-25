@@ -47,7 +47,7 @@ Please follow the contribution guidelines.
 
 <h2> LinkedIn</h2> : https://www.linkedin.com/in/ephraim-a-1a8204a8/
 
-<h2> Portfolio </h2> : https://chimerical-malasada-ceed3a.netlify.app/
+<h2> Portfolio </h2> : https://abstaina44.github.io/
 
 
 <img width="1280" alt="Screenshot 2023-11-24 at 20 23 43" src="https://github.com/Abstaina44/Abstaina.github.io/assets/48015890/6544455f-cf43-40c2-805f-6262b03c763b">
