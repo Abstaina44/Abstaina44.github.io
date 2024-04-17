@@ -1,4 +1,4 @@
-<h3> PORTFOLIO WEBSITE </h3> 
+<h3> SIMPLE PORTFOLIO WEBSITE </h3> 
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and achievements. The website is designed to provide an interactive and informative experience.
 
@@ -61,11 +61,10 @@ https://www.linkedin.com/in/ephraim-a-1a8204a8/
 <h2> Github Pages </h2>  
 https://abstaina44.github.io/ 
 
-<h2> Netlify </h2>
-https://chimerical-malasada-ceed3a.netlify.app/
 
 
+<img width="1280" alt="Screenshot 2023-11-24 at 20 23 43" src="https://github.com/Abstaina44/Abstaina.github.io/assets/48015890/6544455f-cf43-40c2-805f-6262b03c763b"> 
 
+## AUTHOR
 
-
-<img width="1280" alt="Screenshot 2023-11-24 at 20 23 43" src="https://github.com/Abstaina44/Abstaina.github.io/assets/48015890/6544455f-cf43-40c2-805f-6262b03c763b">
+# Made with 🤍 by Ephraim Abstaina
