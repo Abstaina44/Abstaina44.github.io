@@ -98,3 +98,28 @@
     text-align: justify;
   }
 }
+.dark-mode .dark-mode-toggle {
+  background-color: #333;
+  /* Dark mode background color for the toggle button */
+}
+
+.mode-icon {
+  width: 30px;
+  /* Adjust the size as needed */
+  height: 30px;
+}
+
+.light-mode {
+  display: none;
+  /* Initially hide light mode icon */
+}
+
+.dark-mode .light-mode {
+  display: inline;
+  /* Show light mode icon in dark mode */
+}
+
+.dark-mode .dark-mode {
+  display: none;
+  /* Initially hide dark mode icon in dark mode */
+}
