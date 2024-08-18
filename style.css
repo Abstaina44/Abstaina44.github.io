@@ -340,9 +340,8 @@ section {
 }
 
 article {
-  display: flex;
   width: 10rem;
-  justify-content: space-around;
+  justify-content: space-between;
   gap: 0.5rem;
 }
 
